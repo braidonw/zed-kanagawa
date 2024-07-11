@@ -19,7 +19,7 @@
 
         // Editor
         "editor.background": "#1F1F28",
-        "editor.gutter.background": "#2A2A37",
+        "editor.gutter.background": "#1F1F28",
         "editor.active_line.background": "#363646",
         "editor.foreground": "#DCD7BA",
         "editor.line_number": "#54546D",
@@ -39,7 +39,7 @@
 
         // UI Text
         "text": "#DCD7BA",
-        "text.muted": "#727169",
+        "text.muted": "#DCD7BA",
         "text.placeholder": "#727169",
         "text.disabled": "#54546D",
         "text.accent": "#FFA066",
